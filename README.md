@@ -1,2 +1,2 @@
 # AppPersisteArquivo
-Aplicação de Persistência em arquivos
+Aplicação Android de Persistência em arquivos
